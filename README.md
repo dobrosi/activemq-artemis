@@ -7,6 +7,7 @@ git clone https://github.com/dobrosi/activemq-artemis.git
 `
 ## Build image
 `
+cd activemq-artemis
 docker build -t dobrosi/activemq-artemis .
 `
 ## Run container from image
