@@ -1,9 +1,9 @@
 # ActiveMQ Artemis Docker image
 Unofficial ActiveMQ Artemis image for Docker containers.
 https://activemq.apache.org/components/artemis/
-## Checkout
+## Get source
 `
-git checkout https://github.com/dobrosi/activemq-artemis.git
+git clone https://github.com/dobrosi/activemq-artemis.git
 `
 ## Build image
 `
